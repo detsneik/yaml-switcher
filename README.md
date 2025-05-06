@@ -53,7 +53,7 @@ The plugin comes with a default configuration to manage a "status" property with
    - **Property Type**: Choose between "Text" (plain text value) or "List" (YAML list format).
    - **Allow Multiple Values**: For list properties, you can choose whether to replace existing values or add to them.
 
-## What's New in Version 4.3.1
+## What's New in Version 0.1.0
 
 - **Enhanced List Management**: Separated list formatting from multiple values behavior
 - **Three Property Types**: Now you can choose between Text, List (Single value), or List (Multiple values)
