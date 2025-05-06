@@ -1,0 +1,10 @@
+{
+	"id": "yalm-switcher",
+	"name": "YALM Switcher",
+	"version": "0.1.0",
+	"minAppVersion": "0.1.0",
+	"description": "Modify YAML frontmatter properties with keyboard shortcuts",
+	"author": "detsneik",
+	"authorUrl": "https://github.com/detsneik",
+	"isDesktopOnly": false
+}
