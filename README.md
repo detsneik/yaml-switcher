@@ -1,4 +1,4 @@
-# YALM Switcher for Obsidian
+# YAML Switcher for Obsidian
 
 This plugin for [Obsidian](https://obsidian.md) allows you to quickly modify YAML frontmatter properties in your notes using customizable keyboard shortcuts. Perfect for efficiently managing your notes' metadata.
 
@@ -40,19 +40,19 @@ The plugin provides a default configuration for managing a "status" property wit
 
 1. Open **Settings** in Obsidian.
 2. Go to **Community Plugins**.
-3. Search for "**YALM Switcher**".
+3. Search for "**YAML Switcher**".
 4. Click **Install**.
 
 ### Manual Installation
 
 1. Download the `main.js`, `manifest.json`, and `styles.css` files.
-2. Create a folder named `yalm-switcher` in your Obsidian vault's plugin folder: `<Vault>/.obsidian/plugins/`.
+2. Create a folder named `yaml-switcher` in your Obsidian vault's plugin folder: `<Vault>/.obsidian/plugins/`.
 3. Place the downloaded files into this folder.
 4. Enable the plugin from Obsidian’s settings.
 
 ## Configuration
 
-1. Navigate to **Settings > Community Plugins > YALM Switcher**.
+1. Navigate to **Settings > Community Plugins > YAML Switcher**.
 2. Add, edit, or remove shortcuts as needed.
 3. For each shortcut, configure the following:
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT license.
 
 ---
 
-Have any questions or suggestions? Open an issue on the [GitHub repository](https://github.com/detsneik/yalm-switcher).
+Have any questions or suggestions? Open an issue on the [GitHub repository](https://github.com/detsneik/yaml-switcher).
 
 ---
 
