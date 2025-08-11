@@ -1,6 +1,6 @@
 {
-	"id": "yalm-switcher",
-	"name": "YALM Switcher",
+	"id": "yaml-switcher",
+	"name": "YAML Switcher",
 	"version": "0.1.0",
 	"minAppVersion": "0.1.0",
 	"description": "Modify YAML frontmatter properties with keyboard shortcuts",
