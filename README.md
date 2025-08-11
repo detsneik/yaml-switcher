@@ -27,6 +27,7 @@ The plugin provides a default configuration for managing a "status" property wit
 | status        | alt+1    | todo  | Status: todo  |
 | status        | alt+2    | doing | Status: doing |
 | status        | alt+3    | done  | Status: done  |
+| status        | alt+4    | planned  | Status: planned  |
 
 ## Use Cases
 
